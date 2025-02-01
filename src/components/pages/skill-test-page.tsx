@@ -30,7 +30,7 @@ export function SkillTestPage() {
       <h1 className="text-2xl font-bold mb-4">Skill Test</h1>
       <div className="xl:flex items-stretch w-full gap-3">
         <div className="xl:w-[50%]">
-          <div className="mb-6 flex items-center justify-between border p-4 rounded-md">
+          <div className="mb-6 flex items-center justify-between border p-4 rounded-md gap-4">
             <Image src="/html.png" height={50} width={50} alt="HTML logo" />
             <div>
               <p className="text-lg font-semibold">
